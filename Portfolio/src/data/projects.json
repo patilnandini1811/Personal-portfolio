@@ -1,0 +1,23 @@
+[
+    {
+      "title": "History Hunt",
+      "imageSrc": "projects/historyHunt.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React native", "Express", "Node"],
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Book Library",
+      "imageSrc": "projects/library.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node", "Sql"],
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Group Projects",
+      "imageSrc": "projects/groupproject.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node","Sql work-Branch"],
+      "source": "https://www.github.com"
+    }
+  ]

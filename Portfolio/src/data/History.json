@@ -1,0 +1,19 @@
+[
+    {
+      "role": "Fullstack developer(Trainee)",
+      "organisation": "NewSplitter",
+      "startDate": "May, 2024",
+      "endDate": "Present",
+      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+      "imageSrc": "experience/newsplitterImage.png"
+    },
+    {
+      "role": "Automotive and Mobile App developer (Intern)",
+      "organisation": "Polestar",
+      "startDate": "Nov, 2023",
+      "endDate": "May, 2024",
+      "experiences": ["Worked on Windows 11", "Designed the control panel"],
+      "imageSrc": "experience/polestarImage.png"
+    }
+    
+  ]
