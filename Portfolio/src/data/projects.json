@@ -4,20 +4,20 @@
       "imageSrc": "projects/historyHunt.png",
       "description": "This is a project made to learn the latest languages by building an app.",
       "skills": ["React native", "Express", "Node"],
-      "source": "https://www.github.com"
+      "source": "https://github.com/patilnandini1811/HistoryHunt"
     },
     {
       "title": "Book Library",
       "imageSrc": "projects/library.png",
       "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sql"],
+      "skills": ["React", "Express", "Node", "SQL"],
       "source": "https://www.github.com"
     },
     {
       "title": "Group Projects",
       "imageSrc": "projects/groupproject.png",
       "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node","Sql work-Branch"],
+      "skills": ["React", "Express", "Node","SQL" ,"TS"],
       "source": "https://www.github.com"
     }
   ]

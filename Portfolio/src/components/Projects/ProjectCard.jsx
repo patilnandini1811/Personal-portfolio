@@ -5,6 +5,7 @@ export const ProjectCard = ({project : {title, imageSrc, description, skills, so
     {
         return (
     <div className={styles.container}>
+        
         <img src={getImageUrl(imageSrc)}
         alt={`Image of ${title}`} className={styles.image}
         />

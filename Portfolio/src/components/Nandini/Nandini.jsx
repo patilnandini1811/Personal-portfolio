@@ -6,10 +6,10 @@ const Nandini = () => {
     <section className={styles.container}>
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Nandini</h1>
-        <p className={styles.description}>Innovative Full Stack Developer with 2+ years of experience in React,
-         Node.js, and AWS, building high-performance, scalable web and mobile applications.
-         Passionate about crafting secure, user-focused solutions that drive engagement and efficiency.</p>
-         <a className={styles.contactBtn} href="mailto:patilnandini1811@gmail.com">Contact me</a>
+        <p className={styles.description}>Full Stack Developer with 2 years of experience in React, Node.js, .NET, and AWS. 
+        I build high-performance web and mobile applications focused on scalability, security, 
+        and user engagement. Curious to know more? Scroll down and check my resume..</p>
+       
         </div>
         <img 
         src={getImageUrl("nandini/nandiniImage.png")}
@@ -24,3 +24,4 @@ const Nandini = () => {
 }
 
 export default Nandini
+//<a className={styles.contactBtn} href="">Resume</a>
