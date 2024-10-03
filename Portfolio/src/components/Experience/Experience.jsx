@@ -6,7 +6,8 @@ import styles from './Experience.module.css'
 const Experience = () => {
   return (
      <section className={styles.container} id='experience'>
-        <h2 className={styles.title}>Experience</h2>
+        <h2 className={styles.title}>Skills & Experience</h2>
+
         <div className={styles.content}>
             <div className={styles.skills}>
                 {skills.map((skill,id)=>{
@@ -27,7 +28,7 @@ const Experience = () => {
                                         <img 
                                         src={getImageUrl(exprinceItem.imageSrc)} alt={`${exprinceItem.organisation} Logo`} />
                                    <div className={styles.experienceItemDetails}>
-                                    <h3>{`${exprinceItem.role},${exprinceItem.organisation}`}</h3>
+                                    <h3>{`${exprinceItem.role} ${exprinceItem.organisation}`}</h3>
                                     <p>{`${exprinceItem.startDate}, - ${exprinceItem.endDate}`}</p>
                                     <ul>
                                         {exprinceItem.experiences.map((experience,id)=>{

@@ -1,18 +1,13 @@
 {
-  "homepage": "https://patilnandini1811.github.io/nandini-portfolio",
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
-    
-    
   },
   "dependencies": {
     "@fontsource/outfit": "^5.1.0",

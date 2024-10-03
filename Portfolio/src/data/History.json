@@ -1,10 +1,10 @@
 [
     {
-      "role": "Fullstack developer(Trainee)",
+      "role": "Fullstack developer",
       "organisation": "NewSplitter",
       "startDate": "May, 2024",
       "endDate": "Present",
-      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+      "experiences": ["Enhanced application scalability for web and mobile platforms using AWS, resulting in increased user engagement."],
       "imageSrc": "experience/newsplitterImage.png"
     },
     {
@@ -12,7 +12,7 @@
       "organisation": "Polestar",
       "startDate": "Nov, 2023",
       "endDate": "May, 2024",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
+      "experiences": ["Developed in-car mobile applications using Android Studio, Kotlin, and Java, reducing load times and enhancing user experience."],
       "imageSrc": "experience/polestarImage.png"
     }
     

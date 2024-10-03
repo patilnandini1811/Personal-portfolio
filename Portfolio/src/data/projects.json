@@ -2,21 +2,21 @@
     {
       "title": "History Hunt",
       "imageSrc": "projects/historyHunt.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "description": "A gamified mobile app built with React Native and Google Maps, allowing users to explore historical locations interactively.",
       "skills": ["React native", "Express", "Node"],
       "source": "https://github.com/patilnandini1811/HistoryHunt"
     },
     {
-      "title": "Book Library",
-      "imageSrc": "projects/library.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "title": "Secure Chat",
+      "imageSrc": "projects/secureChat.png",
+      "description": "A secure messaging app using JWT authentication and hashed passwords.Supports the channels and secure message storage.",
       "skills": ["React", "Express", "Node", "SQL"],
       "source": "https://www.github.com"
     },
     {
       "title": "Group Projects",
       "imageSrc": "projects/groupproject.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "description": "In the group project, we built apps like Twitter Clone and Netflix Clone using the following skills.",
       "skills": ["React", "Express", "Node","SQL" ,"TS"],
       "source": "https://www.github.com"
     }
